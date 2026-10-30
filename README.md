@@ -9,8 +9,9 @@ No real person took part. All the people in the prompts are made up.
 ## What is in this folder
 
 - `build_prompts.py`: a small Python program. It holds all the people, all the situations, and the steps that join them into prompts.
-- `prompts.jsonl`: the finished prompts. The program makes this file.
 - `README.md`: this file.
+
+When you run the program, it creates a new file, `prompts.jsonl`, with all the finished prompts.
 
 ## The three people
 
